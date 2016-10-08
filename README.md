@@ -35,6 +35,6 @@ The idea is to reward the user (a.k.a. player) whenever he/she shows progress:
 
 ## Disclaimer
 
-If you're an expert in a finance related subject and found a conceptual error, we'd appreciate that you'd contact us through [me@joseglego.com](mailto:me@joseglego.com) or [lual@lual.com.ve](lual@lual.com.ve]) reporting the error.
+If you're an expert in a finance related subject and found a conceptual error, we'd appreciate that you'd contact us through [me@joseglego.com](mailto:me@joseglego.com) or [lual@lual.com.ve](mailto:lual@lual.com.ve]) reporting the error.
 
 We are programmers and designers, not accredited financial advisors, but we're always striving to learn more :blush:
