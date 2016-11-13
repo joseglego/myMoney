@@ -5,7 +5,7 @@ An application to manage the personal finance and take care about the incomes, o
 
 As the short description states, myMoney is all about managing personal finances and analyzing that data to improve the user's financial health. This is tackled through 4 main aproaches: tracking, financial statements, automation and goals.
 
-### Tracking (T)
+### Record (R)
 
 Where it all starts, this area includes all posible regular inputs by the user: income, expense or liability. Every time one of those is performed, the user enters it and the program guides him/her to classify it and store it, thus keeping a record of every financial movement made.
 
