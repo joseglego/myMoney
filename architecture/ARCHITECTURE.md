@@ -32,7 +32,11 @@ Display of financial ratios and statistics. This will be the UI for the Goals se
 
 ### Settings
 
-Mainly used to set up categories and manage user profile.
+Mainly used to set up categories, sub-categories and defaults for pre-populated elements.
+
+### Account
+
+Settingns regarding the user profile and log-out option.
 
 ### Balance sheet
 
