@@ -81,9 +81,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="952.5647"
-     inkscape:cy="316.39347"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="936.37729"
+     inkscape:cy="766.32992"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -107,7 +107,9 @@
      inkscape:snap-center="true"
      inkscape:snap-text-baseline="true"
      inkscape:snap-page="true"
-     inkscape:snap-global="false" />
+     inkscape:snap-global="true"
+     showguides="true"
+     inkscape:guide-bbox="true" />
   <metadata
      id="metadata4927">
     <rdf:RDF>
@@ -278,7 +280,7 @@
        inkscape:original-d="m -88.214286,-211.04875 0,10.39335"
        inkscape:path-effect="#path-effect7097-4"
        id="path7095-2"
-       d="m -92.012271,-211.04875 c -10e-7,0 3.797985,10.39335 3.797985,10.39335 1.265995,-3.46445 2.53199,-6.9289 3.797985,-10.39335 z"
+       d="m -92.012271,-211.04875 c 1.265995,3.46445 2.53199,6.9289 3.797985,10.39335 1.265995,-3.46445 2.53199,-6.9289 3.797985,-10.39335 z"
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
     <path
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
@@ -546,9 +548,9 @@
              width="336"
              id="rect7290" /></flowRegion><flowPara
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';fill:#333333;fill-opacity:1"
-           id="flowPara7292">Track </flowPara><flowPara
+           id="flowPara7292">Record </flowPara><flowPara
            id="flowPara7402"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';fill:#333333;fill-opacity:1">operation (T)</flowPara></flowRoot>      <rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';fill:#333333;fill-opacity:1">operation (R)</flowPara></flowRoot>      <rect
          style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#f9f9f9;fill-opacity:1;fill-rule:nonzero;stroke:#999999;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
          id="rect7296"
          width="170.1275"
@@ -857,6 +859,388 @@
          id="path4428"
          d="m 1090.9411,305.75757 0,-24.62859"
          style="opacity:0.9;fill:none;fill-opacity:1;stroke:#333333;stroke-width:1;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       id="g5001"
+       transform="translate(-211.42857,77.142857)"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         transform="translate(1808.1912,-77.618172)"
+         id="g4430-3">
+        <rect
+           style="opacity:1;fill:#fdfdfd;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+           id="rect7499-6"
+           width="1327.8868"
+           height="600.03064"
+           x="82.151054"
+           y="105.55677"
+           inkscape:export-xdpi="55.047188"
+           inkscape:export-ydpi="55.047188" />
+        <rect
+           inkscape:export-ydpi="49.931721"
+           inkscape:export-xdpi="49.931721"
+           y="705.5874"
+           x="82.151054"
+           height="83.102295"
+           width="1327.8868"
+           id="rect4679-7"
+           style="opacity:1;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none" />
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot7579-5"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           transform="translate(-222.60918,96.705945)"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90"><flowRegion
+             id="flowRegion7581-3"><rect
+               id="rect7583-5"
+               width="717.04327"
+               height="105.58816"
+               x="352.95676"
+               y="632.48834"
+               style="fill:#999999" /></flowRegion><flowPara
+             id="flowPara7585-6"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:27.5px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';letter-spacing:4px;fill:#999999">RECORD OPERATION</flowPara></flowRoot>      </g>
+      <g
+         transform="translate(0,44.15847)"
+         id="g4920">
+        <g
+           id="g4898">
+          <rect
+             inkscape:export-ydpi="90"
+             inkscape:export-xdpi="90"
+             ry="32.223"
+             rx="85.063751"
+             y="96.997002"
+             x="2447.1624"
+             height="64.445999"
+             width="170.1275"
+             id="rect4619-7-1-8-9"
+             style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#f9f9f9;fill-opacity:1;fill-rule:nonzero;stroke:#999999;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+          <flowRoot
+             inkscape:export-ydpi="90"
+             inkscape:export-xdpi="90"
+             xml:space="preserve"
+             id="flowRoot4176-5-2-7-1"
+             style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;font-family:Karla;-inkscape-font-specification:'Karla Bold';text-align:center;writing-mode:lr-tb;text-anchor:middle;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+             transform="translate(2351.7711,78.37199)"><flowRegion
+               id="flowRegion4178-6-7-9-2"><rect
+                 id="rect4180-2-0-2-7"
+                 width="336"
+                 height="190"
+                 x="12"
+                 y="27.222549"
+                 style="fill:#333333;fill-opacity:1;stroke:none" /></flowRegion><flowPara
+               id="flowPara4182-9-9-0-0"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';fill:#333333;fill-opacity:1">Choose type </flowPara><flowPara
+               id="flowPara4602"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';fill:#333333;fill-opacity:1">of operation</flowPara></flowRoot>        </g>
+        <g
+           id="g4877">
+          <rect
+             style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#f9f9f9;fill-opacity:1;fill-rule:nonzero;stroke:#999999;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+             id="rect4619-7-1-8-6"
+             width="170.1275"
+             height="64.445999"
+             x="2083.5076"
+             y="220.13921"
+             rx="3"
+             ry="3"
+             inkscape:export-xdpi="90"
+             inkscape:export-ydpi="90" />
+          <flowRoot
+             transform="translate(1988.4479,212.11044)"
+             style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;font-family:Karla;-inkscape-font-specification:'Karla Bold';text-align:center;writing-mode:lr-tb;text-anchor:middle;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+             id="flowRoot4176-5-2-7-8"
+             xml:space="preserve"
+             inkscape:export-xdpi="90"
+             inkscape:export-ydpi="90"><flowRegion
+               id="flowRegion4178-6-7-9-8"><rect
+                 style="fill:#333333;fill-opacity:1;stroke:none"
+                 y="27.222549"
+                 x="12"
+                 height="190"
+                 width="336"
+                 id="rect4180-2-0-2-4" /></flowRegion><flowPara
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';fill:#333333;fill-opacity:1"
+               id="flowPara4182-9-9-0-3">Expense</flowPara></flowRoot>        </g>
+        <g
+           id="g4884"
+           transform="translate(-14.142334,4.0406036)">
+          <rect
+             inkscape:export-ydpi="90"
+             inkscape:export-xdpi="90"
+             ry="3"
+             rx="3"
+             y="216.0986"
+             x="2340.0864"
+             height="64.445999"
+             width="170.1275"
+             id="rect4631"
+             style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#f9f9f9;fill-opacity:1;fill-rule:nonzero;stroke:#999999;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+          <flowRoot
+             inkscape:export-ydpi="90"
+             inkscape:export-xdpi="90"
+             xml:space="preserve"
+             id="flowRoot4633"
+             style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;font-family:Karla;-inkscape-font-specification:'Karla Bold';text-align:center;writing-mode:lr-tb;text-anchor:middle;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+             transform="translate(2245.0266,208.06983)"><flowRegion
+               id="flowRegion4635"><rect
+                 id="rect4637"
+                 width="336"
+                 height="190"
+                 x="12"
+                 y="27.222549"
+                 style="fill:#333333;fill-opacity:1;stroke:none" /></flowRegion><flowPara
+               id="flowPara4639"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';fill:#333333;fill-opacity:1">Income</flowPara></flowRoot>        </g>
+        <g
+           id="g4891"
+           transform="translate(-11.112061,2.0202942)">
+          <rect
+             style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#f9f9f9;fill-opacity:1;fill-rule:nonzero;stroke:#999999;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+             id="rect4641"
+             width="170.1275"
+             height="64.445999"
+             x="2579.4927"
+             y="218.11891"
+             rx="3"
+             ry="3"
+             inkscape:export-xdpi="90"
+             inkscape:export-ydpi="90" />
+          <flowRoot
+             transform="translate(2484.4328,210.09014)"
+             style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;font-family:Karla;-inkscape-font-specification:'Karla Bold';text-align:center;writing-mode:lr-tb;text-anchor:middle;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+             id="flowRoot4643"
+             xml:space="preserve"
+             inkscape:export-xdpi="90"
+             inkscape:export-ydpi="90"><flowRegion
+               id="flowRegion4645"><rect
+                 style="fill:#333333;fill-opacity:1;stroke:none"
+                 y="27.222549"
+                 x="12"
+                 height="190"
+                 width="336"
+                 id="rect4647" /></flowRegion><flowPara
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';fill:#333333;fill-opacity:1"
+               id="flowPara4649">Liability</flowPara></flowRoot>        </g>
+        <rect
+           style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#f9f9f9;fill-opacity:1;fill-rule:nonzero;stroke:#999999;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+           id="rect4664"
+           width="170.1275"
+           height="64.445999"
+           x="2810.8171"
+           y="220.13921"
+           rx="3"
+           ry="3"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <flowRoot
+           transform="translate(2715.7577,215.1409)"
+           style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;font-family:Karla;-inkscape-font-specification:'Karla Bold';text-align:center;writing-mode:lr-tb;text-anchor:middle;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+           id="flowRoot4666"
+           xml:space="preserve"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90"><flowRegion
+             id="flowRegion4668"><rect
+               style="fill:#333333;fill-opacity:1;stroke:none"
+               y="27.222549"
+               x="12"
+               height="190"
+               width="336"
+               id="rect4670" /></flowRegion><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';fill:#333333;fill-opacity:1"
+             id="flowPara4672">Asset</flowPara></flowRoot>        <g
+           id="g4867"
+           transform="translate(-3.0305176,-36.799164)">
+          <rect
+             inkscape:export-ydpi="90"
+             inkscape:export-xdpi="90"
+             ry="3"
+             rx="3"
+             y="345.39813"
+             x="2086.5381"
+             height="100.81148"
+             width="170.12744"
+             id="rect4674"
+             style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#f9f9f9;fill-opacity:1;fill-rule:nonzero;stroke:#999999;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+          <flowRoot
+             inkscape:export-ydpi="90"
+             inkscape:export-xdpi="90"
+             xml:space="preserve"
+             id="flowRoot4676"
+             style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;font-family:Karla;-inkscape-font-specification:'Karla Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+             transform="translate(2086.8074,323.36936)"><flowRegion
+               id="flowRegion4678"><rect
+                 id="rect4680"
+                 width="336"
+                 height="190"
+                 x="12"
+                 y="27.222549"
+                 style="text-align:start;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none" /></flowRegion><flowPara
+               id="flowPara4682"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';text-align:start;text-anchor:start;fill:#333333;fill-opacity:1">Item</flowPara><flowPara
+               id="flowPara4704"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';text-align:start;text-anchor:start;fill:#333333;fill-opacity:1">Category</flowPara><flowPara
+               id="flowPara4706"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';text-align:start;text-anchor:start;fill:#333333;fill-opacity:1">Sub-category</flowPara><flowPara
+               id="flowPara4708"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';text-align:start;text-anchor:start;fill:#333333;fill-opacity:1">Withdrawn from</flowPara></flowRoot>        </g>
+        <g
+           id="g4842"
+           transform="translate(-11.112061,0)">
+          <rect
+             inkscape:export-ydpi="90"
+             inkscape:export-xdpi="90"
+             ry="3"
+             rx="3"
+             y="308.59897"
+             x="2579.4927"
+             height="143.097"
+             width="170.12744"
+             id="rect4828"
+             style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#f9f9f9;fill-opacity:1;fill-rule:nonzero;stroke:#999999;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+          <flowRoot
+             inkscape:export-ydpi="90"
+             inkscape:export-xdpi="90"
+             xml:space="preserve"
+             id="flowRoot4676-4"
+             style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;font-family:Karla;-inkscape-font-specification:'Karla Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+             transform="translate(2578.9927,285.08706)"><flowRegion
+               id="flowRegion4678-9"><rect
+                 id="rect4680-2"
+                 width="336"
+                 height="190"
+                 x="12"
+                 y="27.222549"
+                 style="text-align:start;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none" /></flowRegion><flowPara
+               id="flowPara4682-0"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';text-align:start;text-anchor:start;fill:#333333;fill-opacity:1">Item</flowPara><flowPara
+               id="flowPara4704-6"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';text-align:start;text-anchor:start;fill:#333333;fill-opacity:1">Category</flowPara><flowPara
+               id="flowPara4780"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';text-align:start;text-anchor:start;fill:#333333;fill-opacity:1">    short-term</flowPara><flowPara
+               id="flowPara4778"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';text-align:start;text-anchor:start;fill:#333333;fill-opacity:1">    long-term</flowPara><flowPara
+               id="flowPara4746"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';text-align:start;text-anchor:start;fill:#333333;fill-opacity:1">Sub-category</flowPara><flowPara
+               id="flowPara4708-9"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';text-align:start;text-anchor:start;fill:#333333;fill-opacity:1">Owed to</flowPara></flowRoot>        </g>
+        <g
+           id="g4830"
+           transform="translate(31.507568,0)">
+          <rect
+             style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#f9f9f9;fill-opacity:1;fill-rule:nonzero;stroke:#999999;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+             id="rect4826"
+             width="170.12744"
+             height="143.097"
+             x="2779.3096"
+             y="308.59897"
+             rx="3"
+             ry="3"
+             inkscape:export-xdpi="90"
+             inkscape:export-ydpi="90" />
+          <flowRoot
+             transform="translate(2778.8096,285.08706)"
+             style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;font-family:Karla;-inkscape-font-specification:'Karla Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+             id="flowRoot4756"
+             xml:space="preserve"
+             inkscape:export-xdpi="90"
+             inkscape:export-ydpi="90"><flowRegion
+               id="flowRegion4758"><rect
+                 style="text-align:start;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none"
+                 y="27.222549"
+                 x="12"
+                 height="182.92892"
+                 width="220.84261"
+                 id="rect4760" /></flowRegion><flowPara
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';text-align:start;text-anchor:start;fill:#333333;fill-opacity:1"
+               id="flowPara4762">Item</flowPara><flowPara
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';text-align:start;text-anchor:start;fill:#333333;fill-opacity:1"
+               id="flowPara4764">Category</flowPara><flowPara
+               id="flowPara4772"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';text-align:start;text-anchor:start;fill:#333333;fill-opacity:1">    liquid</flowPara><flowPara
+               id="flowPara4776"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';text-align:start;text-anchor:start;fill:#333333;fill-opacity:1">    invested</flowPara><flowPara
+               id="flowPara4774"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';text-align:start;text-anchor:start;fill:#333333;fill-opacity:1">    physical</flowPara><flowPara
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';text-align:start;text-anchor:start;fill:#333333;fill-opacity:1"
+               id="flowPara4768">Sub-category</flowPara></flowRoot>        </g>
+        <g
+           id="g4854"
+           transform="translate(-43.277832,0)">
+          <rect
+             inkscape:export-ydpi="90"
+             inkscape:export-xdpi="90"
+             ry="3"
+             rx="3"
+             y="308.59897"
+             x="2369.2219"
+             height="165.09721"
+             width="170.12744"
+             id="rect4674-1-2"
+             style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#f9f9f9;fill-opacity:1;fill-rule:nonzero;stroke:#999999;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+          <flowRoot
+             inkscape:export-ydpi="90"
+             inkscape:export-xdpi="90"
+             xml:space="preserve"
+             id="flowRoot4676-4-6"
+             style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;font-family:Karla;-inkscape-font-specification:'Karla Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+             transform="translate(2368.7219,285.08706)"><flowRegion
+               id="flowRegion4678-9-6"><rect
+                 id="rect4680-2-4"
+                 width="336"
+                 height="190"
+                 x="12"
+                 y="27.222549"
+                 style="text-align:start;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none" /></flowRegion><flowPara
+               id="flowPara4682-0-9"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';text-align:start;text-anchor:start;fill:#333333;fill-opacity:1">Item</flowPara><flowPara
+               id="flowPara4704-6-5"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';text-align:start;text-anchor:start;fill:#333333;fill-opacity:1">Category</flowPara><flowPara
+               id="flowPara4780-0"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';text-align:start;text-anchor:start;fill:#333333;fill-opacity:1">    earned</flowPara><flowPara
+               id="flowPara4824"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';text-align:start;text-anchor:start;fill:#333333;fill-opacity:1">    passive</flowPara><flowPara
+               id="flowPara4778-4"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';text-align:start;text-anchor:start;fill:#333333;fill-opacity:1">    portfolio</flowPara><flowPara
+               id="flowPara4746-8"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';text-align:start;text-anchor:start;fill:#333333;fill-opacity:1">Sub-category</flowPara><flowPara
+               id="flowPara4708-9-7"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';text-align:start;text-anchor:start;fill:#333333;fill-opacity:1">Paid by</flowPara></flowRoot>        </g>
+        <g
+           id="g4910">
+          <path
+             sodipodi:nodetypes="ccc"
+             inkscape:connector-curvature="0"
+             id="path7481-9"
+             d="m 2447.1624,129.22 -278.5914,0 3e-4,90.91921"
+             style="fill:none;fill-rule:evenodd;stroke:#333333;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4908"
+             d="m 2411.0078,220.13921 0,-90.91921"
+             style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#333333;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+        </g>
+        <g
+           id="g4914"
+           transform="matrix(-1,0,0,1,5063.9519,-0.50000572)">
+          <path
+             style="fill:none;fill-rule:evenodd;stroke:#333333;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 2447.1624,129.22 -278.5914,0 3e-4,90.91921"
+             id="path4916"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="ccc" />
+          <path
+             style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#333333;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+             d="m 2411.0078,220.13921 0,-90.91921"
+             id="path4918"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
     </g>
   </g>
 </svg>

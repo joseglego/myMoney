@@ -38,8 +38,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.5"
-     inkscape:cx="2047.2525"
-     inkscape:cy="331.09543"
+     inkscape:cx="1756.4105"
+     inkscape:cy="121.63815"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1641,7 +1641,7 @@
                  x="-2288"
                  y="2217.3623" /></flowRegion><flowPara
                id="flowPara5973"
-               style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';fill:#000000;stroke:none">Type</flowPara></flowRoot>        </g>
+               style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';fill:#000000;stroke:none">Latest type</flowPara></flowRoot>        </g>
         <flowRoot
            style="color:#000000;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:8.5px;line-height:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
            id="flowRoot6055"
@@ -1935,7 +1935,7 @@
              width="300.18726"
              id="rect6372" /></flowRegion><flowPara
            id="flowPara6392"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';text-align:start;text-anchor:start">Types are: income, expense and liability</flowPara></flowRoot>      <g
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';text-align:start;text-anchor:start">Types are: income, expense, liability, asset</flowPara></flowRoot>      <g
          id="g6376"
          transform="translate(414.71697,115.25073)">
         <circle
@@ -2843,7 +2843,7 @@
            id="flowPara7361-6">32</flowPara></flowRoot>    </g>
     <g
        id="g7225-1"
-       transform="translate(3248.6683,477.71374)">
+       transform="translate(3428.6683,757.71374)">
       <path
          sodipodi:nodetypes="ccccc"
          inkscape:connector-curvature="0"
@@ -3619,7 +3619,7 @@
     </g>
     <g
        id="g7196-0-0"
-       transform="translate(3325.0085,496.31557)">
+       transform="translate(3505.0085,776.31557)">
       <path
          sodipodi:nodetypes="ccccc"
          inkscape:connector-curvature="0"
@@ -3729,7 +3729,7 @@
              width="300.18726"
              id="rect7581" /></flowRegion><flowPara
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';text-align:start;text-anchor:start"
-           id="flowPara7583">Income, expense, liability, default to last selection, default to machine learning</flowPara></flowRoot>      <g
+           id="flowPara7583">Income, expense, liability, asset, default to last selection, default to machine learning</flowPara></flowRoot>      <g
          id="g7585"
          transform="translate(1334.6298,-67.002078)">
         <circle
@@ -3754,8 +3754,8 @@
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';fill:#ffffff">2</flowPara></flowRoot>      </g>
     </g>
     <rect
-       y="-1076.6324"
-       x="-2019.761"
+       y="-1356.6324"
+       x="-2199.761"
        height="8"
        width="256"
        id="rect7313-3"

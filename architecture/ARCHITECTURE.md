@@ -8,7 +8,9 @@
 
 Typical login screen.
 
-### Track operation (T)
+### Record operation (R)
+
+![record_operation](record_operation.png)
 
 Welcoming screen because the user will access the app mainly to record some financial operation. This screen consists of a simple form, where the user will chose among these types:
 * Income
