@@ -3,7 +3,7 @@ An application to manage the personal finance and take care about the incomes, o
 
 ## UX strategy
 
-As the short description states, myMoney is all about managing personal finances and analyzing that data to improve the user's financial health. This is tackled through 4 main aproaches: tracking, financial statements, automation and goals.
+As the short description states, myMoney is all about managing personal finances and analyzing that data to improve the user's financial health. This is tackled through 4 main aproaches: record, financial statements, automation and goals.
 
 ### Record (R)
 
@@ -11,7 +11,7 @@ Where it all starts, this area includes all posible regular inputs by the user: 
 
 ### Financial statemets (FS)
 
-According to the kind of data introduced though *Tracking* (income, expeses and liabilities) and other inputs provided directly through the screens related to FS (assets), the program will be able to produce the following financial statements:
+According to the kind of data introduced though *record* (income, expeses and liabilities) and other inputs provided directly through the screens related to FS (assets), the program will be able to produce the following financial statements:
 * Balance sheet
 * Income statement
 	* Detailed income entries
@@ -25,7 +25,7 @@ This provides the user with the posibility to set reminders for singular tasks (
 
 The game to achieve financial health. This module offers:
 * Information on financial health through the display of financial ratios.
-* Statistics on tracking habits.
+* Statistics on record habits.
 * Set financial goals and show the progress towards them (future versions).
 * Financial literacy according to the user needs (future versions).
 

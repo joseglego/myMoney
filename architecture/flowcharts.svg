@@ -81,11 +81,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="936.37729"
-     inkscape:cy="766.32992"
+     inkscape:zoom="1.4"
+     inkscape:cx="2441.7235"
+     inkscape:cy="610.59366"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g5001"
      showgrid="false"
      showborder="false"
      inkscape:window-width="1366"
@@ -1099,7 +1099,7 @@
              rx="3"
              y="308.59897"
              x="2579.4927"
-             height="143.097"
+             height="165.097"
              width="170.12744"
              id="rect4828"
              style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#f9f9f9;fill-opacity:1;fill-rule:nonzero;stroke:#999999;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
@@ -1128,7 +1128,9 @@
                id="flowPara4746"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';text-align:start;text-anchor:start;fill:#333333;fill-opacity:1">Sub-category</flowPara><flowPara
                id="flowPara4708-9"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';text-align:start;text-anchor:start;fill:#333333;fill-opacity:1">Owed to</flowPara></flowRoot>        </g>
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';text-align:start;text-anchor:start;fill:#333333;fill-opacity:1">Owed to</flowPara><flowPara
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';text-align:start;text-anchor:start;fill:#333333;fill-opacity:1"
+               id="flowPara8590">Due date</flowPara></flowRoot>        </g>
         <g
            id="g4830"
            transform="translate(31.507568,0)">
@@ -1179,7 +1181,7 @@
              rx="3"
              y="308.59897"
              x="2369.2219"
-             height="165.09721"
+             height="165.097"
              width="170.12744"
              id="rect4674-1-2"
              style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#f9f9f9;fill-opacity:1;fill-rule:nonzero;stroke:#999999;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
